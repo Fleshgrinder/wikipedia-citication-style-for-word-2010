@@ -1,0 +1,1 @@
+# Wikipedia citication style for Word 2010
